@@ -1,0 +1,8 @@
+//NAME: <your name here>
+//DATE ISSUED: <date you made the file>
+//DATE LAST EDITED: <date and time the file was last merged>
+//COPYRIGHT: <current year>
+
+int main() {
+
+}
